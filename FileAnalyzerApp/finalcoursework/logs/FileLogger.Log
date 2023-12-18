@@ -1,0 +1,78 @@
+2023-12-18 19:45:45.771 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 19:45:45.931 [main] INFO  org.example.FileSys - Завершение приложения.
+2023-12-18 19:45:45.936 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 19:45:46.482 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 19:45:46.680 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 19:45:47.609 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 19:46:12.086 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 19:46:12.217 [main] INFO  org.example.FileSys - Завершение приложения.
+2023-12-18 19:46:12.221 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 19:46:12.732 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 19:46:12.905 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 19:46:13.801 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 19:46:16.267 [AWT-EventQueue-0] INFO  org.example.FileSys - Выбранная директория: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 19:46:16.270 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Дерево файловой системы заполнено для директории: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 19:46:18.306 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 19:46:18.336 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 19:47:47.614 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 19:47:47.734 [main] INFO  org.example.FileSys - Завершение приложения.
+2023-12-18 19:47:47.738 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 19:47:48.344 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 19:47:48.528 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 19:47:49.439 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 19:47:54.887 [AWT-EventQueue-0] INFO  org.example.FileSys - Выбранная директория: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 19:47:54.906 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Дерево файловой системы заполнено для директории: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 19:47:55.627 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\TI\Torrent-Igruha.Org.URL
+2023-12-18 19:47:55.646 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\TI\Torrent-Igruha.Org.URL
+2023-12-18 19:47:56.188 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\TI\icon.ico
+2023-12-18 19:47:56.194 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\TI\icon.ico
+2023-12-18 19:47:57.756 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\TI\Torrent-Igruha.Org.URL
+2023-12-18 19:47:57.757 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\TI\Torrent-Igruha.Org.URL
+2023-12-18 19:47:58.636 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 19:47:58.637 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 20:01:34.031 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 20:01:34.199 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 20:01:35.013 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 20:01:35.216 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 20:01:36.179 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 20:01:39.530 [AWT-EventQueue-0] INFO  org.example.FileSys - Закрытие приложения.
+2023-12-18 20:02:11.650 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 20:02:11.866 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 20:02:12.475 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 20:02:12.651 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 20:02:13.610 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 20:02:18.170 [AWT-EventQueue-0] INFO  org.example.FileSys - Закрытие приложения.
+2023-12-18 23:20:54.338 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 23:20:54.535 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 23:20:55.194 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 23:20:55.479 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 23:20:57.399 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 23:21:28.758 [AWT-EventQueue-0] INFO  org.example.FileSys - Выбранная директория: C:\Users\konon\OneDrive\Документы
+2023-12-18 23:21:28.963 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Дерево файловой системы заполнено для директории: C:\Users\konon\OneDrive\Документы
+2023-12-18 23:21:30.662 [AWT-EventQueue-0] INFO  org.example.FileSys - Закрытие приложения.
+2023-12-18 23:21:35.907 [main] INFO  org.example.FileSys - Запуск приложения.
+2023-12-18 23:21:36.028 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание главного окна приложения.
+2023-12-18 23:21:36.453 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Создан экземпляр DiskAnalyzerSwing.
+2023-12-18 23:21:36.600 [AWT-EventQueue-0] INFO  org.example.FileSys - Создание диалогового окна выбора папки.
+2023-12-18 23:21:37.361 [AWT-EventQueue-0] INFO  org.example.FileSys - Отображение диалогового окна.
+2023-12-18 23:23:17.338 [AWT-EventQueue-0] INFO  org.example.FileSys - Выбранная директория: C:\Users\konon\OneDrive\Документы
+2023-12-18 23:23:17.456 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Дерево файловой системы заполнено для директории: C:\Users\konon\OneDrive\Документы
+2023-12-18 23:24:08.106 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\desktop.ini
+2023-12-18 23:24:08.134 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\desktop.ini
+2023-12-18 23:24:12.440 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 23:24:12.445 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\TI
+2023-12-18 23:24:12.800 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\Настраиваемые шаблоны Office
+2023-12-18 23:24:12.803 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\Настраиваемые шаблоны Office
+2023-12-18 23:24:13.280 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 23:24:13.282 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\New Folder
+2023-12-18 23:24:13.432 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\New bs.drawio
+2023-12-18 23:24:13.434 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\New bs.drawio
+2023-12-18 23:24:14.095 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\FPSMonitor.txt
+2023-12-18 23:24:14.096 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\FPSMonitor.txt
+2023-12-18 23:24:14.727 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\desktop.ini
+2023-12-18 23:24:14.728 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\desktop.ini
+2023-12-18 23:24:15.231 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\BioWare
+2023-12-18 23:24:15.232 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\BioWare
+2023-12-18 23:24:16.223 [AWT-EventQueue-0] INFO  org.example.FileAnalyzer - Информация о файле получена: C:\Users\konon\OneDrive\Документы\BioWare\Mass Effect 2
+2023-12-18 23:24:16.225 [AWT-EventQueue-0] INFO  org.example.DiskAnalyzerSwing - Отображена информация о файле: C:\Users\konon\OneDrive\Документы\BioWare\Mass Effect 2
+2023-12-18 23:25:18.621 [AWT-EventQueue-0] INFO  org.example.FileSys - Закрытие приложения.

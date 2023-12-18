@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.example","l":"DiskAnalyzerSwing"},{"p":"org.example","l":"FileAnalyzer"},{"p":"org.example","l":"FileSys"},{"p":"org.example","l":"Launcher"}];updateSearchResults();
